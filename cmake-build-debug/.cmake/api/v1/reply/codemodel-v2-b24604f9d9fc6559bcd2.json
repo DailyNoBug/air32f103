@@ -1,0 +1,96 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.10"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "air32_led",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "air32_led.bin::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-air32_led.bin-Debug-ee392be450ab8618a2b8.json",
+					"name" : "air32_led.bin",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "air32_led.elf::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-air32_led.elf-Debug-c7f459aea904f145dee0.json",
+					"name" : "air32_led.elf",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "flash::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-flash-Debug-4b4e1e4fcf341562e1c6.json",
+					"name" : "flash",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "openocd::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-openocd-Debug-f2b53385460c4521e5b5.json",
+					"name" : "openocd",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "readelf::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-readelf-Debug-4a7e8b98bbe47788bb3b.json",
+					"name" : "readelf",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/lsc/repo/air32_led/cmake-build-debug",
+		"source" : "/home/lsc/repo/air32_led"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}

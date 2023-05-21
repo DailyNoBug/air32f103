@@ -1,0 +1,4 @@
+/home/lsc/myinstall/CLion-2023.1.2/clion-2023.1.2/bin/cmake/linux/x64/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/home/lsc/myinstall/CLion-2023.1.2/clion-2023.1.2/bin/ninja/linux/x64/ninja -G Ninja -S /home/lsc/repo/air32_led -B /home/lsc/repo/air32_led/cmake-build-debug
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/lsc/repo/air32_led/cmake-build-debug

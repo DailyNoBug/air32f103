@@ -1,0 +1,7 @@
+/home/lsc/repo/air32_led/cmake-build-debug/CMakeFiles/air32_led.elf.dir
+/home/lsc/repo/air32_led/cmake-build-debug/CMakeFiles/air32_led.bin.dir
+/home/lsc/repo/air32_led/cmake-build-debug/CMakeFiles/flash.dir
+/home/lsc/repo/air32_led/cmake-build-debug/CMakeFiles/openocd.dir
+/home/lsc/repo/air32_led/cmake-build-debug/CMakeFiles/readelf.dir
+/home/lsc/repo/air32_led/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/lsc/repo/air32_led/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,14 @@
+# ninja log v5
+98	151	1684593466149193738	air32_led.elf	d213bd5b122f1c2c
+1	98	1684593466097193578	CMakeFiles/air32_led.elf.dir/Source/src/air32f103_rcc.c.o	bab82c26dc8ac08c
+151	155	0	CMakeFiles/air32_led.bin	9d5917f4ed03c5fe
+1	49	1684593466049193430	CMakeFiles/air32_led.elf.dir/Source/src/st7735.c.o	8577f538851273b3
+0	1985	0	CMakeFiles/flash	442abb1cf7d0602
+0	11	1684595845259372910	build.ninja	cdd000d41258135e
+151	155	0	/home/lsc/repo/air32_led/cmake-build-debug/CMakeFiles/air32_led.bin	9d5917f4ed03c5fe
+0	1985	0	/home/lsc/repo/air32_led/cmake-build-debug/CMakeFiles/flash	442abb1cf7d0602
+0	6	1684496439349244101	CMakeFiles/air32_led.elf.dir/Source/air32f103cx_startup.s.o	b4a15e61156963f4
+1	92	1684593466089193553	CMakeFiles/air32_led.elf.dir/Source/src/air32f103_spi.c.o	6d3872cc67d92e49
+0	32	1684496302845882480	CMakeFiles/ucos_stm32.elf.dir/Source/air32f103cx_startup.s.o	40643a453f1eeb1a
+0	14	1684506383462192136	CMakeFiles/air32_led.elf.dir/Source/src/main.c.o	22e30f53f84e9783
+0	46	1684496302861882414	CMakeFiles/ucos_stm32.elf.dir/Source/src/main.c.o	17c5f27522ab9a03
